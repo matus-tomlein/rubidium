@@ -1,0 +1,6 @@
+---
+:runtime:
+- org.eclipse.californium:californium-core:jar:1.0.0-SNAPSHOT
+- org.bouncycastle:bcprov-jdk15on:jar:1.47
+- org.bouncycastle:bcpkix-jdk15on:jar:1.47
+- org.eclipse.californium:element-connector:jar:1.0.0-SNAPSHOT
